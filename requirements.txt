@@ -12,3 +12,5 @@ pandas>=1.5
 scikit-learn>=1.2
 tensorflow>=2.10
 keras>=2.10
+SQLAlchemy==1.4.44
+python-dotenv==0.21.0
