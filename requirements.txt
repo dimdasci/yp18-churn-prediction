@@ -14,3 +14,4 @@ tensorflow>=2.10
 keras>=2.10
 SQLAlchemy==1.4.44
 python-dotenv==0.21.0
+shap==0.41.0
